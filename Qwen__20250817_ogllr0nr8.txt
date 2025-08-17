@@ -1,0 +1,5 @@
+AraBERT-Maksimal/
+├── app.py
+├── requirements.txt
+├── README.md
+└── .github/workflows/deploy.yml  (opsional, untuk auto-deploy)
